@@ -1,0 +1,15 @@
+[package]
+
+name = "k-bonacci"
+version = "0.1.0"
+edition = "2024"
+description = "Rust iterator to generate generalised Fibonacci sequences"
+license = "MIT"
+repository = "https://github.com/suickers/k-bonacci"
+readme = "README.md"
+
+[dependencies]
+
+num = "0.4"
+num-traits = "0.2"
+
